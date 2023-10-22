@@ -1,0 +1,10 @@
+127.0.0.1 - - [23/Sep/2023:15:13:46 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:15:13:48 +0530] "GET /BootMVCProj20-MiniProject-ErrorExceptions/ HTTP/1.1" 200 221
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:15:13:48 +0530] "GET /BootMVCProj20-MiniProject-ErrorExceptions/images/report.png HTTP/1.1" 200 8925
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:15:13:48 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:15:13:51 +0530] "GET /BootMVCProj20-MiniProject-ErrorExceptions/report HTTP/1.1" 200 6102
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:15:13:52 +0530] "GET /BootMVCProj20-MiniProject-ErrorExceptions/images/edit.png HTTP/1.1" 200 6425
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:15:13:52 +0530] "GET /BootMVCProj20-MiniProject-ErrorExceptions/images/delete.png HTTP/1.1" 200 1526
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:15:13:52 +0530] "GET /BootMVCProj20-MiniProject-ErrorExceptions/images/add.png HTTP/1.1" 200 38779
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:15:13:52 +0530] "GET /BootMVCProj20-MiniProject-ErrorExceptions/images/home1.png HTTP/1.1" 200 76106
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:15:13:55 +0530] "GET /BootMVCProj20-MiniProject-ErrorExceptions/reportl HTTP/1.1" 404 941

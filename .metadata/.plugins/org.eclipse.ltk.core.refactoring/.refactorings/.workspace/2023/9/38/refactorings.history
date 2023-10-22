@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;BootMVCProj10-MiniProject-CURDOperations-ErrorExceptions&apos; to &apos;BootMVCProj20-MiniProject-CURDOperations-ErrorExceptions&apos;&#x0D;&#x0A;- Original element: &apos;BootMVCProj10-MiniProject-CURDOperations-ErrorExceptions&apos;&#x0D;&#x0A;- Renamed element: &apos;BootMVCProj10-MiniProject-CURDOperations-ErrorExceptions&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;BootMVCProj10-MiniProject-CURDOperations-ErrorExceptions&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=BootMVCProj10-MiniProject-CURDOperations-ErrorExceptions" name="BootMVCProj20-MiniProject-CURDOperations-ErrorExceptions" references="true" stamp="1695458300026" version="1.0"/>
+</session>
